@@ -1,11 +1,5 @@
-USE burgers_db;
-
-INSERT INTO burgers
-    (burger_name, devoured) 
-  VALUES
-("VeggieBurger", true),
-("Chicken Maharaj", false),
-("Chicken Burger", true),
-('Wendys Hamburger', true),
-('Tequila Lime Burger',false),
-('Black Bean Burger', false);  
+INSERT INTO burgers(burger_name) VALUES ('Jersey Burger');
+INSERT INTO burgers(burger_name) VALUES ('Buffalo Chicken Burger');
+INSERT INTO burgers(burger_name) VALUES ('Veggie Burger');
+INSERT INTO burgers(burger_name) VALUES ('Bacon Cheeseburger');
+INSERT INTO burgers(burger_name) VALUES ('Plain Old Hamburger');
