@@ -1,6 +1,7 @@
 # Eat-Da-Burger! 
-![Image of Eat-Da-Burger APP](https://github.com/Tapesh123/Bamazon/blob/master/images/mysql.gif)
+Deployed in Heroku
 
+https://still-thicket-14937.herokuapp.com/burgers
 
 ## Overview
 
@@ -24,3 +25,7 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 Deployed in Heroku
 
 https://still-thicket-14937.herokuapp.com/burgers
+
+
+![Image of Eat-Da-Burger APP](https://github.com/Tapesh123/Eat-Da-Burger/blob/master/EatDaBurger.gif)
+
