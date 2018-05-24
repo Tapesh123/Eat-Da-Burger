@@ -1,6 +1,5 @@
 # Eat-Da-Burger! 
-
-
+![Image of Eat-Da-Burger APP](https://github.com/Tapesh123/Bamazon/blob/master/images/mysql.gif)
 
 
 ## Overview
